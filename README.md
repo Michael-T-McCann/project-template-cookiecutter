@@ -1,4 +1,6 @@
-# true-neutral-cookiecutter
-A minimalist cookiecutter for research and data science projects
+# Mike McCann's Project Template
+A minimalist cookiecutter template for research and data science projects
 
-Run via `cookiecutter gh:patrickmineault/true-neutral-cookiecutter`
+Modified from Patrick Mineault's https://github.com/patrickmineault/true-neutral-cookiecutter
+
+Run via `cookiecutter gh:Michael-T-McCann/project-template-cookiecutter`
