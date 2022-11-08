@@ -12,6 +12,6 @@ git pull
 conda env update --file ./environment.yml
 
 ## Running code
-conda activate {{cookiecutter.repo_name}}
+conda activate {{cookiecutter.folder_name}}
 
 
