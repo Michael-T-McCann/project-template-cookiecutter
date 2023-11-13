@@ -1,5 +1,5 @@
 *.egg-info
-{{cookiecutter.folder_name}}/__pycache__/
+{{cookiecutter.package_name}}/__pycache__/
 .DS_Store
 
 data/*
